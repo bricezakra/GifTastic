@@ -1,5 +1,5 @@
 body {
-    background: lightblue url("file:///home/coderx/Downloads/GITHUB_REPOSITORIES/University%20of%20Texas%20Austin%20_%20CODING%20BOOTCAMP%20_%20Homework%20Repositories/Homework%2006/GifTastic/assets/images/backgroundImage.jpeg");
+    background: lightblue url("https://github.com/bricezakra/GifTastic/blob/master/assets/images/backgroundImage.jpeg?raw=true");
     background-size: cover;
 }
 
@@ -29,7 +29,7 @@ img {
 }
 
 .title {
-    background: url("file:///home/coderx/Downloads/GITHUB_REPOSITORIES/University%20of%20Texas%20Austin%20_%20CODING%20BOOTCAMP%20_%20Homework%20Repositories/Homework%2006/GifTastic/assets/images/backgroundImage.jpeg");
+    background: url("https://github.com/bricezakra/GifTastic/blob/master/assets/images/backgroundImage.jpeg?raw=true");
 }
 
 #add-player {
