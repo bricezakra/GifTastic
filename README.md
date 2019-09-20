@@ -29,3 +29,9 @@ GifTastic is a dynamic webpage that uses a GYPHY API Key to populate Gifs.
 
 
 *GIPHY api
+
+
+
+# Deployed Link
+
+https://bricezakra.github.io/GifTastic/
