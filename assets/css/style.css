@@ -1,0 +1,39 @@
+body {
+    background: lightblue url("file:///home/coderx/Downloads/GITHUB_REPOSITORIES/University%20of%20Texas%20Austin%20_%20CODING%20BOOTCAMP%20_%20Homework%20Repositories/Homework%2006/GifTastic/assets/images/backgroundImage.jpeg");
+    background-size: cover;
+}
+
+#players-form {
+    float: right;
+}
+
+.playerBtn {
+    margin: 5px;
+}
+
+.container {
+    float: left;
+    position: relative;
+    width: 30%;
+}
+
+.player {
+    float: left;
+}
+
+img {
+    margin: 10px;
+    height: 200px;
+    width: 300px;
+    margin-top: 0px;
+}
+
+.title {
+    background: url("file:///home/coderx/Downloads/GITHUB_REPOSITORIES/University%20of%20Texas%20Austin%20_%20CODING%20BOOTCAMP%20_%20Homework%20Repositories/Homework%2006/GifTastic/assets/images/backgroundImage.jpeg");
+}
+
+#add-player {
+    margin-top: 5px;
+    background-color: teal;
+    color: white;
+}

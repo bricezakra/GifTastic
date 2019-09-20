@@ -10,7 +10,7 @@ $(document).ready(function() {
         $("#players-view").empty(); //Empty the div containing the gifs before charging new ones
 
         var player = $(this).attr("data-name");
-        var queryURL = "https://api.giphy.com/v1/gifs/search?api_key=OiUNPJQFujSPd8lDgsIQJHSMtC19w5La=" + player + "&limit=10";
+        var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + player + "&api_key=OiUNPJQFujSPd8lDgsIQJHSMtC19w5La&limit=10";
 
         console.log(queryURL);
         $.ajax({
