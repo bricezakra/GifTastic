@@ -1,4 +1,4 @@
-# Homework06-GifTastic
+GifTastic
 
 
 
