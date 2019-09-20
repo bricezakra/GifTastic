@@ -4,7 +4,7 @@ body {
 }
 
 #players-form {
-    float: right;
+    float: left;
 }
 
 .playerBtn {
@@ -12,7 +12,7 @@ body {
 }
 
 .container {
-    float: left;
+    float: right;
     position: relative;
     width: 30%;
 }
