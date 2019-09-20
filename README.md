@@ -1,4 +1,4 @@
-#GifTastic
+# GifTastic
 
 
 
@@ -8,7 +8,7 @@ GifTastic is a dynamic webpage that uses a GYPHY API Key to populate Gifs.
 
 
 
-How it works:
+# How it works:
 
 
 
@@ -24,7 +24,7 @@ How it works:
 
 
 
-API used:
+# API used:
 
 
 
